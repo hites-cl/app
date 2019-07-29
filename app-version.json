@@ -1,14 +1,14 @@
 {
     "ios": {
-        "minimum_version": "3.0.0",
+        "minimum_version": "4.0.0",
         "latest_version": {
-            "version": "3.0.0"
+            "version": "4.0.0"
         }
     },
     "android": {
-        "minimum_version": "22",
+        "minimum_version": "23",
         "latest_version": {
-            "version": "22"
+            "version": "23"
         }
     }
 }
