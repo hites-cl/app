@@ -6,9 +6,9 @@
         }
     },
     "android": {
-        "minimum_version": "23",
+        "minimum_version": "41",
         "latest_version": {
-            "version": "23"
+            "version": "41"
         }
     }
 }
