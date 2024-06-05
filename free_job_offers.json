@@ -1,0 +1,320 @@
+[
+    {
+        "id": 80,
+        "nombreOferta": "Apoyo Hites La Serena - Jornada Completa",
+        "tipoContrato": "Plazo Fijo",
+        "descripcion": "El trabajo consiste en APOYO TIENDA donde desempeñara laborares solicitadas por su jefatura, las cueles pueden ser: orden en exhibición de productos, preparación de productos, entrega de produtcos, empaque y reposición de mercaderia, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+        "nroVacantes": 2,
+        "fechIniPost": "2024-05-31 09:00:00",
+        "fechFinPost": "2024-06-06 18:00:00",
+        "fechIniSel": "2024-05-31 09:00:00",
+        "fechFinSel": "2024-06-07 18:00:00",
+        "monto": 0,
+        "descuentos": 0,
+        "montoNet": 22000,
+        "fechIniOferta": "2024-06-08 09:00:00",
+        "fechFinOferta": "2024-06-08 19:30:00",
+        "horIniPeriodo": "09:00:00",
+        "horFinPeriodo": "19:30:00",
+        "areaOp": "Sucursales",
+        "depaOp": "Ventas",
+        "supervisorOp": "Coordinador de Recursos Humanos",
+        "local": {
+            "id": 3,
+            "nombreLoc": "Hites La Serena",
+            "tipoLoc": "Local La Serena",
+            "dirLoc": "Gregorio Cordovez ",
+            "nroDir": 435,
+            "comunaLoc": "La Serena",
+            "regionLoc": "Coquimbo",
+            "ciudadLoc": "La Serena",
+            "requisitoCercania": 20
+        },
+        "requerimientosEspeciales": [
+            {
+                "id": 1,
+                "detalle": "Presentarse con",
+                "tipo": "Certificado Alumno Regular"
+            },
+            {
+                "id": 2,
+                "detalle": "Presentarse con",
+                "tipo": "Copia Cedula Identidad"
+            }
+        ],
+        "descOfAcot": "Promotor de servicio temporal",
+        "estOferta": "Publicada",
+        "dias": [
+            {
+                "id": 6,
+                "dia": "Sabado"
+            }
+        ],
+        "horTot": 10
+    },
+    {
+        "id": 78,
+        "nombreOferta": "Apoyo Hites La Serena - Media Jornada",
+        "tipoContrato": "Plazo Fijo",
+        "descripcion": "El trabajo consiste en APOYO TIENDA donde desempeñara laborares solicitadas por su jefatura, las cueles pueden ser: orden en exhibición de productos, preparación de productos, entrega de produtcos, empaque y reposición de mercaderia, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+        "nroVacantes": 2,
+        "fechIniPost": "2024-05-31 09:00:00",
+        "fechFinPost": "2024-06-04 18:00:00",
+        "fechIniSel": "2024-05-31 09:00:00",
+        "fechFinSel": "2024-06-05 18:00:00",
+        "monto": 0,
+        "descuentos": 0,
+        "montoNet": 11000,
+        "fechIniOferta": "2024-06-06 14:30:00",
+        "fechFinOferta": "2024-06-06 19:30:00",
+        "horIniPeriodo": "14:30:00",
+        "horFinPeriodo": "19:30:00",
+        "areaOp": "Sucursales",
+        "depaOp": "Ventas",
+        "supervisorOp": "Coordinador de Recursos Humanos",
+        "local": {
+            "id": 3,
+            "nombreLoc": "Hites La Serena",
+            "tipoLoc": "Local La Serena",
+            "dirLoc": "Gregorio Cordovez ",
+            "nroDir": 435,
+            "comunaLoc": "La Serena",
+            "regionLoc": "Coquimbo",
+            "ciudadLoc": "La Serena",
+            "requisitoCercania": 20
+        },
+        "requerimientosEspeciales": [
+            {
+                "id": 1,
+                "detalle": "Presentarse con",
+                "tipo": "Certificado Alumno Regular"
+            },
+            {
+                "id": 2,
+                "detalle": "Presentarse con",
+                "tipo": "Copia Cedula Identidad"
+            }
+        ],
+        "descOfAcot": "Promotor de servicio temporal",
+        "estOferta": "Publicada",
+        "dias": [
+            {
+                "id": 4,
+                "dia": "Jueves"
+            }
+        ],
+        "horTot": 5
+    },
+    {
+        "id": 84,
+        "nombreOferta": "Apoyo Hites Talca - Jornada Completa",
+        "tipoContrato": "Plazo Fijo",
+        "descripcion": "El trabajo consiste en APOYO TIENDA donde desempeñara laborares solicitadas por su jefatura, las cueles pueden ser: orden en exhibición de productos, preparación de productos, entrega de produtcos, empaque y reposición de mercaderia, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+        "nroVacantes": 2,
+        "fechIniPost": "2024-05-31 09:00:00",
+        "fechFinPost": "2024-06-06 18:00:00",
+        "fechIniSel": "2024-05-31 09:00:00",
+        "fechFinSel": "2024-06-07 18:00:00",
+        "monto": 0,
+        "descuentos": 0,
+        "montoNet": 22000,
+        "fechIniOferta": "2024-06-08 09:00:00",
+        "fechFinOferta": "2024-06-08 19:30:00",
+        "horIniPeriodo": "09:00:00",
+        "horFinPeriodo": "19:30:00",
+        "areaOp": "Sucursales",
+        "depaOp": "Ventas",
+        "supervisorOp": "Coordinador de Recursos Humanos",
+        "local": {
+            "id": 4,
+            "nombreLoc": "Hites Talca",
+            "tipoLoc": "Local Talca",
+            "dirLoc": "Calle 9 Oriente ",
+            "nroDir": 1060,
+            "comunaLoc": "Talca",
+            "regionLoc": "Maule",
+            "ciudadLoc": "Talca",
+            "requisitoCercania": 20
+        },
+        "requerimientosEspeciales": [
+            {
+                "id": 1,
+                "detalle": "Presentarse con",
+                "tipo": "Certificado Alumno Regular"
+            },
+            {
+                "id": 2,
+                "detalle": "Presentarse con",
+                "tipo": "Copia Cedula Identidad"
+            }
+        ],
+        "descOfAcot": "Promotor de servicio temporal",
+        "estOferta": "Publicada",
+        "dias": [
+            {
+                "id": 6,
+                "dia": "Sabado"
+            }
+        ],
+        "horTot": 10
+    },
+    {
+        "id": 86,
+        "nombreOferta": "Apoyo Hites Concepcion 1 - Media Jornada",
+        "tipoContrato": "Plazo Fijo",
+        "descripcion": "El trabajo consiste en APOYO TIENDA donde desempeñara laborares solicitadas por su jefatura, las cueles pueden ser: orden en exhibición de productos, preparación de productos, entrega de produtcos, empaque y reposición de mercaderia, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+        "nroVacantes": 2,
+        "fechIniPost": "2024-05-31 09:00:00",
+        "fechFinPost": "2024-06-04 18:00:00",
+        "fechIniSel": "2024-05-31 09:00:00",
+        "fechFinSel": "2024-06-05 18:00:00",
+        "monto": 0,
+        "descuentos": 0,
+        "montoNet": 11000,
+        "fechIniOferta": "2024-06-06 14:50:00",
+        "fechFinOferta": "2024-06-06 19:50:00",
+        "horIniPeriodo": "14:50:00",
+        "horFinPeriodo": "19:50:00",
+        "areaOp": "Sucursales",
+        "depaOp": "Ventas",
+        "supervisorOp": "Coordinador de Recursos Humanos",
+        "local": {
+            "id": 8,
+            "nombreLoc": "Hites Concepcion 1",
+            "tipoLoc": "Local Concepcion 1",
+            "dirLoc": "Barros Arana",
+            "nroDir": 890,
+            "comunaLoc": "Concepcion",
+            "regionLoc": "Bio Bio",
+            "ciudadLoc": "Concepcion",
+            "requisitoCercania": 20
+        },
+        "requerimientosEspeciales": [
+            {
+                "id": 1,
+                "detalle": "Presentarse con",
+                "tipo": "Certificado Alumno Regular"
+            },
+            {
+                "id": 2,
+                "detalle": "Presentarse con",
+                "tipo": "Copia Cedula Identidad"
+            }
+        ],
+        "descOfAcot": "Promotor de servicio temporal",
+        "estOferta": "Publicada",
+        "dias": [
+            {
+                "id": 4,
+                "dia": "Jueves"
+            }
+        ],
+        "horTot": 5
+    },
+    {
+        "id": 82,
+        "nombreOferta": "Apoyo Hites Talca - Media Jornada",
+        "tipoContrato": "Plazo Fijo",
+        "descripcion": "El trabajo consiste en APOYO TIENDA donde desempeñara laborares solicitadas por su jefatura, las cueles pueden ser: orden en exhibición de productos, preparación de productos, entrega de produtcos, empaque y reposición de mercaderia, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+        "nroVacantes": 2,
+        "fechIniPost": "2024-05-31 09:00:00",
+        "fechFinPost": "2024-06-04 18:00:00",
+        "fechIniSel": "2024-05-31 09:00:00",
+        "fechFinSel": "2024-06-05 18:00:00",
+        "monto": 0,
+        "descuentos": 0,
+        "montoNet": 11000,
+        "fechIniOferta": "2024-06-06 14:50:00",
+        "fechFinOferta": "2024-06-06 19:50:00",
+        "horIniPeriodo": "14:50:00",
+        "horFinPeriodo": "19:50:00",
+        "areaOp": "Sucursales",
+        "depaOp": "Ventas",
+        "supervisorOp": "Coordinador de Recursos Humanos",
+        "local": {
+            "id": 4,
+            "nombreLoc": "Hites Talca",
+            "tipoLoc": "Local Talca",
+            "dirLoc": "Calle 9 Oriente ",
+            "nroDir": 1060,
+            "comunaLoc": "Talca",
+            "regionLoc": "Maule",
+            "ciudadLoc": "Talca",
+            "requisitoCercania": 20
+        },
+        "requerimientosEspeciales": [
+            {
+                "id": 1,
+                "detalle": "Presentarse con",
+                "tipo": "Certificado Alumno Regular"
+            },
+            {
+                "id": 2,
+                "detalle": "Presentarse con",
+                "tipo": "Copia Cedula Identidad"
+            }
+        ],
+        "descOfAcot": "Promotor de servicio temporal",
+        "estOferta": "Publicada",
+        "dias": [
+            {
+                "id": 4,
+                "dia": "Jueves"
+            }
+        ],
+        "horTot": 5
+    },
+    {
+        "id": 70,
+        "nombreOferta": "Apoyo Hites Alameda - Jornada Completa",
+        "tipoContrato": "Plazo Fijo",
+        "descripcion": "El trabajo consiste en APOYO TIENDA donde desempeñara laborares solicitadas por su jefatura, las cueles pueden ser: orden en exhibición de productos, preparación de productos, entrega de produtcos, empaque y reposición de mercaderia, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+        "nroVacantes": 2,
+        "fechIniPost": "2024-05-31 09:00:00",
+        "fechFinPost": "2024-06-04 18:00:00",
+        "fechIniSel": "2024-05-31 09:00:00",
+        "fechFinSel": "2024-06-05 18:00:00",
+        "monto": 0,
+        "descuentos": 0,
+        "montoNet": 22000,
+        "fechIniOferta": "2024-06-06 09:30:00",
+        "fechFinOferta": "2024-06-06 19:30:00",
+        "horIniPeriodo": "09:30:00",
+        "horFinPeriodo": "19:30:00",
+        "areaOp": "Sucursales",
+        "depaOp": "Ventas",
+        "supervisorOp": "Coordinador de Recursos Humanos",
+        "local": {
+            "id": 2,
+            "nombreLoc": "Hites Alameda",
+            "tipoLoc": "Local Alameda",
+            "dirLoc": "Moneda, Piso -2 /",
+            "nroDir": 772,
+            "comunaLoc": "Santiago",
+            "regionLoc": "Metropolitana",
+            "ciudadLoc": "Santiago",
+            "requisitoCercania": 20
+        },
+        "requerimientosEspeciales": [
+            {
+                "id": 1,
+                "detalle": "Presentarse con",
+                "tipo": "Certificado Alumno Regular"
+            },
+            {
+                "id": 2,
+                "detalle": "Presentarse con",
+                "tipo": "Copia Cedula Identidad"
+            }
+        ],
+        "descOfAcot": "Promotor de servicio temporal",
+        "estOferta": "Publicada",
+        "dias": [
+            {
+                "id": 4,
+                "dia": "Jueves"
+            }
+        ],
+        "horTot": 10
+    }
+] 
