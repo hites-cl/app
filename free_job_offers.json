@@ -1,1 +1,530 @@
-[] 
+[{
+                "id": 181,
+                "nombreOferta": "Apoyo Hites ALAMEDA - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 2,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 10:00:00",
+                "fechFinOferta": "2024-07-13 19:00:00",
+                "horIniPeriodo": "10:00:00",
+                "horFinPeriodo": "19:00:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 2,
+                    "nombreLoc": "Hites Alameda",
+                    "tipoLoc": "Local Alameda",
+                    "dirLoc": "Moneda, Piso -2 /",
+                    "nroDir": 772,
+                    "comunaLoc": "Santiago",
+                    "regionLoc": "Metropolitana",
+                    "ciudadLoc": "Santiago",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 182,
+                "nombreOferta": "Apoyo Hites CHILLAN - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 2,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 11:00:00",
+                "fechFinOferta": "2024-07-13 20:00:00",
+                "horIniPeriodo": "11:00:00",
+                "horFinPeriodo": "20:00:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 7,
+                    "nombreLoc": "Hites Chillan",
+                    "tipoLoc": "Local Chillan",
+                    "dirLoc": "Isabel Riquelme",
+                    "nroDir": 709,
+                    "comunaLoc": "Chillan",
+                    "regionLoc": "Nuble",
+                    "ciudadLoc": "Chilla",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 185,
+                "nombreOferta": "Apoyo Hites IQUIQUE - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 2,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 09:30:00",
+                "fechFinOferta": "2024-07-13 18:30:00",
+                "horIniPeriodo": "09:30:00",
+                "horFinPeriodo": "18:30:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 14,
+                    "nombreLoc": "Hites Iquique",
+                    "tipoLoc": "Local Iquique",
+                    "dirLoc": "Tarapaca",
+                    "nroDir": 401,
+                    "comunaLoc": "Iquique",
+                    "regionLoc": "Tarapaca",
+                    "ciudadLoc": "Iquique",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 187,
+                "nombreOferta": "Apoyo Hites MELIPILLA - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 3,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 10:30:00",
+                "fechFinOferta": "2024-07-13 19:30:00",
+                "horIniPeriodo": "10:30:00",
+                "horFinPeriodo": "19:30:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 18,
+                    "nombreLoc": "Hites Melipilla",
+                    "tipoLoc": "Local Melipilla",
+                    "dirLoc": "Vargas",
+                    "nroDir": 578,
+                    "comunaLoc": "Melipilla",
+                    "regionLoc": "Metropolitana",
+                    "ciudadLoc": "Melipilla",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 188,
+                "nombreOferta": "Apoyo Hites PUENTE 640 - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 2,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 10:30:00",
+                "fechFinOferta": "2024-07-13 19:30:00",
+                "horIniPeriodo": "10:30:00",
+                "horFinPeriodo": "19:30:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 21,
+                    "nombreLoc": "Hites Puente 640",
+                    "tipoLoc": "Local Puente 640",
+                    "dirLoc": "Puente",
+                    "nroDir": 640,
+                    "comunaLoc": "Santiago",
+                    "regionLoc": "Metropolitana",
+                    "ciudadLoc": "Santiago",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 189,
+                "nombreOferta": "Apoyo Hites PUERTO MONTT - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 2,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 10:00:00",
+                "fechFinOferta": "2024-07-13 19:00:00",
+                "horIniPeriodo": "10:00:00",
+                "horFinPeriodo": "19:00:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 24,
+                    "nombreLoc": "Hites Puerto Montt",
+                    "tipoLoc": "Local Puerto Montt",
+                    "dirLoc": "Av. Juan Soler Manfredini ",
+                    "nroDir": 31,
+                    "comunaLoc": "Puerto Montt",
+                    "regionLoc": "Lagos",
+                    "ciudadLoc": "Puerto Montt",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 190,
+                "nombreOferta": "Apoyo Hites QUILPUE - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 2,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 10:30:00",
+                "fechFinOferta": "2024-07-13 19:30:00",
+                "horIniPeriodo": "10:30:00",
+                "horFinPeriodo": "19:30:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 26,
+                    "nombreLoc": "Hites Quilpue",
+                    "tipoLoc": "Local Quilpue",
+                    "dirLoc": "Diego Portales",
+                    "nroDir": 867,
+                    "comunaLoc": "Quilpue",
+                    "regionLoc": "Valparaiso",
+                    "ciudadLoc": "Quilpue",
+                    "requisitoCercania": null
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 191,
+                "nombreOferta": "Apoyo Hites RANCAGUA - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 3,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-11 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-12 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-13 09:00:00",
+                "fechFinOferta": "2024-07-13 18:00:00",
+                "horIniPeriodo": "09:00:00",
+                "horFinPeriodo": "18:00:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 27,
+                    "nombreLoc": "Hites Rancagua",
+                    "tipoLoc": "Local Rancagua",
+                    "dirLoc": "Independencia",
+                    "nroDir": 756,
+                    "comunaLoc": "Rancagua",
+                    "regionLoc": "Libertador General Bernardo O'Higgins",
+                    "ciudadLoc": "Rancagua",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 6,
+                        "dia": "Sabado"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 192,
+                "nombreOferta": "Apoyo Hites ALAMEDA - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 1,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-12 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-13 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-14 10:00:00",
+                "fechFinOferta": "2024-07-14 19:00:00",
+                "horIniPeriodo": "10:00:00",
+                "horFinPeriodo": "19:00:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 2,
+                    "nombreLoc": "Hites Alameda",
+                    "tipoLoc": "Local Alameda",
+                    "dirLoc": "Moneda, Piso -2 /",
+                    "nroDir": 772,
+                    "comunaLoc": "Santiago",
+                    "regionLoc": "Metropolitana",
+                    "ciudadLoc": "Santiago",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 7,
+                        "dia": "Domingo"
+                    }
+                ],
+                "horTot": 9
+            },
+            {
+                "id": 193,
+                "nombreOferta": "Apoyo Hites CHILLAN - Jornada Completa",
+                "tipoContrato": "Plazo Fijo",
+                "descripcion": "APOYO TIENDA desempeñara laborares solicitadas por su jefatura, las cuales pueden ser: orden y reposicion de mercaderia, preparación de productos, entrega de productos, entre otras, cuyo objetivo es que la mercadería esté correctamente exhibida y/o puesta a disposición de los clientes.",
+                "nroVacantes": 2,
+                "fechIniPost": "2024-07-04 09:00:00",
+                "fechFinPost": "2024-07-12 23:59:00",
+                "fechIniSel": "2024-07-04 09:00:00",
+                "fechFinSel": "2024-07-13 23:59:00",
+                "monto": 0,
+                "descuentos": 0,
+                "montoNet": 24000,
+                "fechIniOferta": "2024-07-14 11:00:00",
+                "fechFinOferta": "2024-07-14 20:00:00",
+                "horIniPeriodo": "11:00:00",
+                "horFinPeriodo": "20:00:00",
+                "areaOp": "Sucursales",
+                "depaOp": "Ventas",
+                "supervisorOp": "Coordinador de Recursos Humanos",
+                "local": {
+                    "id": 7,
+                    "nombreLoc": "Hites Chillan",
+                    "tipoLoc": "Local Chillan",
+                    "dirLoc": "Isabel Riquelme",
+                    "nroDir": 709,
+                    "comunaLoc": "Chillan",
+                    "regionLoc": "Nuble",
+                    "ciudadLoc": "Chilla",
+                    "requisitoCercania": 20
+                },
+                "requerimientosEspeciales": [
+                    {
+                        "id": 1,
+                        "detalle": "Presentarse con",
+                        "tipo": "Certificado Alumno Regular"
+                    },
+                    {
+                        "id": 2,
+                        "detalle": "Presentarse con",
+                        "tipo": "Copia Cedula Identidad"
+                    }
+                ],
+                "descOfAcot": "Promotor de servicio temporal",
+                "estOferta": "Publicada",
+                "dias": [
+                    {
+                        "id": 7,
+                        "dia": "Domingo"
+                    }
+                ],
+                "horTot": 9
+            }] 
